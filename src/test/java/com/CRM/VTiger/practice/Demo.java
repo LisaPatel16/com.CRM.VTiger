@@ -16,6 +16,7 @@ class B extends A
 	{
 		System.out.println("in b show");	
 	}
+	//my Eclipse update
 }
 public class Demo
 {
