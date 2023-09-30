@@ -32,7 +32,7 @@ public class BaseClass {
 	@BeforeClass(groups = {"SmokeSuite","RegressionSuite"})
 	public void beforeClassConfig(/*String Browser*/) throws Throwable {
 		String BROWSER = futil.getDataFromPropertyFile("browser");//when you writing from the suite.xml file
-		
+		//tftfyuu
 		//to read data from command line
 		//String BROWSER=System.getProperty("browser");
 		
